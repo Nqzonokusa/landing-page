@@ -33,3 +33,9 @@ img{
 .text.nav-link{
     color: #E5E7EB;
 }
+
+.text.hero-main{
+    color: #F9FAf8;
+    font-size: 48px;
+    font-weight: 900;
+}

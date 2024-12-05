@@ -54,4 +54,5 @@ img{
 
 .hero-message{
     width: 450px;
+    box-sizing: border-box;
 }

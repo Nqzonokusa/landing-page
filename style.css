@@ -58,3 +58,14 @@ img{
     width: 450px;
     box-sizing: border-box;
 }
+
+button{
+    background-color: #3882F6;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 8px;
+    padding: 4px 16px;
+    border: none;
+    margin-top: 8px;
+}

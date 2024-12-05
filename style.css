@@ -7,6 +7,7 @@ body{
     background-color: #1F2937;
     display: flex;
     align-items: center;
+    justify-content: space-around;
 }
 
 a{
@@ -15,6 +16,11 @@ a{
 
 .main-logo{
     color: #F9FAf8;
+}
+
+.nav-bar{
+    display: flex;
+    gap: 18px;
 }
 
 .text.nav-link{

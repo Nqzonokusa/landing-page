@@ -1,0 +1,20 @@
+body{
+    font-family: Roboto, sans-serif;
+    margin: 0;
+}
+
+.header{
+    background-color: #1F2937;
+}
+
+a{
+    text-decoration: none;
+}
+
+.main-logo{
+    color: #F9FAf8;
+}
+
+.text.nav-link{
+    color: #E5E7EB;
+}

@@ -107,3 +107,18 @@ button{
 .info-container{
     margin: 0 24px;
 }
+
+.quote{
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+}
+
+.quote-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.quote-author{
+    align-self: flex-end;
+}

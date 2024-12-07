@@ -19,7 +19,7 @@ img{
     width: 730px;
 }
 
-p{
+p, h2{
     margin: 0;
 }
 
@@ -144,4 +144,13 @@ button{
     display: flex;
     justify-content: center;
     padding: 84px;
+}
+
+.cta-container{
+    background-color: #3882F6;
+    border-radius: 8px;
+    width: 900px;
+    padding: 48px 64px;
+    display: flex;
+    justify-content: space-around;
 }

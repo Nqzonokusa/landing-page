@@ -64,14 +64,17 @@ p, h2{
 }
 
 button{
-    background-color: #3882F6;
-    color: #FFF;
     font-size: 18px;
     font-weight: bold;
     border-radius: 8px;
     padding: 4px 16px;
     border: none;
     margin-top: 8px;
+}
+
+button.hero-button{
+    background-color: #3882F6;
+    color: #F9FAf8;
 }
 
 .box{
@@ -153,4 +156,11 @@ button{
     padding: 48px 64px;
     display: flex;
     justify-content: space-around;
+}
+
+button.cta-button{
+    background-color: #3882F6;
+    color: #F9FAf8;
+    border: 2px solid #F9FAf8;
+    padding: 0 24px;
 }

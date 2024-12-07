@@ -78,6 +78,13 @@ button{
 
 }
 
+.text.info-title{
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 900;;
+    padding: 48px;
+}
+
 .information{
     display: flex;
     flex-direction: column;
@@ -91,4 +98,6 @@ button{
 .info-subtext{
     box-sizing: border-box;
     width: 150px;
+    margin-top: 8px;
+    text-align: center;
 }

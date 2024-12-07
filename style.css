@@ -172,3 +172,12 @@ button.cta-button{
 .text.cta-text{
     color: #E5E7EB;
 }
+
+.footer{
+    background-color: #1F2937;
+    padding: 36px;
+    color: #F9FAf8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

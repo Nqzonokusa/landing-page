@@ -164,3 +164,11 @@ button.cta-button{
     border: 2px solid #F9FAf8;
     padding: 0 24px;
 }
+
+.text.cta-header{
+    color: #F9FAf8;
+}
+
+.text.cta-text{
+    color: #E5E7EB;
+}

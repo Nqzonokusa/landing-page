@@ -120,5 +120,15 @@ button{
 }
 
 .quote-author{
+    color: #1F2937;
+    font-size: 18px;
+    font-weight: bold;
     align-self: flex-end;
+}
+
+.text.quote-text{
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
 }

@@ -101,3 +101,7 @@ button{
     margin-top: 8px;
     text-align: center;
 }
+
+.info-container{
+    margin: 0 24px;
+}

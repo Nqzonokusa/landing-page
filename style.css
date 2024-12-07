@@ -82,13 +82,15 @@ button{
     color: #1F2937;
     font-size: 36px;
     font-weight: 900;;
-    padding: 48px;
+    padding-bottom: 48px;
 }
 
 .information{
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding: 48px;
+    padding-bottom: 72px;
 }
 
 .info-section{

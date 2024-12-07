@@ -71,8 +71,8 @@ button{
 }
 
 .box{
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     border: 4px solid #3882F6;
     border-radius: 8px;
 
@@ -86,4 +86,9 @@ button{
 
 .info-section{
     display: flex;
+}
+
+.info-subtext{
+    box-sizing: border-box;
+    width: 150px;
 }
